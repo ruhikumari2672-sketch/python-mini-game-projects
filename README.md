@@ -13,3 +13,7 @@ Python mini project including Stone Paper Scissors and Dice Roll game using menu
 Run main.py file
 
 ## Author
+
+Ruhi Kumari  
+B.Tech Computer Science Engineering Student  
+This project is part of my Python mini-project submission.
